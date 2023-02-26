@@ -16,10 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Asterios specializes in building the data infrastructure needed to leverage machine learning applications and bring data-driven solutions to business problems. 
-Apart from building scalable pipelines, Asterios is passionate about developing machine learning models that benefit society and improve people's lives. Currently, he develops data lakehouses & ML models in Audiological Solutions, an R&D depertment in Device Software at Oticon, Copenhagen.
+Asterios specializes in building the data infrastructure needed to leverage `machine learning` applications and bring `data-driven` solutions to business problems. 
+Apart from building scalable pipelines and data engineering, Asterios is passionate about developing machine learning models that benefit society and improve people's lives. Currently, he develops data lakehouses & ML models in Audiological Solutions, an R&D depertment in Device Software at [Oticon](https://www.oticon.com/), Copenhagen.
 
-He holds a MSc in Human-Centered Artificial Intelligence from DTU, Denmark and a MEng in Electrical and Computer Engineering from DUTh, Greece.
+He holds a MSc in [Human-Centered Artificial Intelligence](https://www.compute.dtu.dk/english) from DTU, Denmark and a MEng in Electrical and Computer Engineering from [DUTh](https://www.ee.duth.gr/), Greece.
 
 Asterios combines the technical skills, creativity, ethics and the right communication in order to surface insights that help organizations drive innovation using the power of data. 
 \\
