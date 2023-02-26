@@ -21,7 +21,7 @@ Apart from building scalable pipelines, Asterios is passionate about developing 
 
 He holds a MSc in Human-Centered Artificial Intelligence from DTU, Denmark and a MEng in Electrical and Computer Engineering from DUTh, Greece.
 
-Asterios helps organizations by extracting and communicating insights, making predictions while driving innovation using the power of data. 
+Asterios combines the technical skills, creativity, ethics and the right communication in order to surface insights that help organizations drive innovation using the power of data. 
 \\
 \\
 Lover of all things coding.
