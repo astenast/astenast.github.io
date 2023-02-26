@@ -24,7 +24,7 @@ He holds a MSc in Human-Centered Artificial Intelligence from DTU, Denmark and a
 Asterios combines the technical skills, creativity, ethics and the right communication in order to surface insights that help organizations drive innovation using the power of data. 
 \\
 \\
-Lover of all things coding.
+Lover of all things coding!
 
 <!-- Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
