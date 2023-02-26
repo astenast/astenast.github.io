@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Asterios specializes in building the data infrastructure needed to leverage machine learning applications and bring data-driven solutions to business problems. 
-Apart from building scalable pipelines, Asterios is passionate about developing machine learning models that benefit society and improve people's lives.
+Apart from building scalable pipelines, Asterios is passionate about developing machine learning models that benefit society and improve people's lives. Currently, he develops data lakehouses & ML models in Audiological Solutions, an R&D depertment in Device Software at Oticon, Copenhagen.
 
 He holds a MSc in Human-Centered Artificial Intelligence from DTU, Denmark and a MEng in Electrical and Computer Engineering from DUTh, Greece.
 
