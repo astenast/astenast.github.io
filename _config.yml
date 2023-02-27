@@ -100,7 +100,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I'm open to hearing from you, so please feel welcome to reach out.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -116,9 +116,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: the Data&Coffee journal # blog_name will be displayed in your blog page
+blog_name: cd /words/ # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A small attempt to organize and collect documented thoughts of things I find cool about. It's mainly about tech, data and the artificial intelligence era.
+blog_description: A small attempt to organize and collect documented thoughts of things I find cool about. It's mainly about tech, data, open source and the AI era.
 permalink: /blog/:year/:title/
 
 # Pagination
