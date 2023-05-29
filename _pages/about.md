@@ -21,7 +21,7 @@ Apart from building scalable pipelines and `data engineering`, Asterios is passi
 
 He holds a MSc in [Human-Centered Artificial Intelligence](https://www.compute.dtu.dk/english) from DTU, Denmark and a MEng in Electrical and Computer Engineering from [DUTh](https://www.ee.duth.gr/), Greece.
 
-Asterios combines the technical skills, creativity, ethics and the right communication in order to surface insights that help organizations drive innovation using the power of data. 
+Asterios combines the technical skills, creativity and the right communication in order to surface insights that help organizations drive innovation using the power of data. 
 \\
 \\
 Lover of all things coding!
